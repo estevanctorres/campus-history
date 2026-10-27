@@ -1,10 +1,10 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Your Essay Title
-author: Your Name
-category: Starter Essay                  # change to a category from the student guide
-header-image: sample-archive-photo.jpg   # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
+title: University Stadium
+author: Estevan Torres
+category: Athletics                  # change to a category from the student guide
+header-image: university-stadium-sign.jpg   # the filename of your own image
+header-caption: Collection ZIM CSWR UNM Archives UNMA 028 Box 14  Number acc 028 014 004
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.

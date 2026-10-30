@@ -12,7 +12,28 @@ start:                                   # the year your story begins, shown on 
 
 # Leave this line as it is.
 layout: essay
----
+--- Nestled nearly a mile high at an elevation of 5,100 feet in Albuquerque, New Mexico, University Stadium has served as the proud home of the University of New Mexico (UNM) Lobos football team for over six decades. 
+Origins and Construction (1958–1960)
+Prior to 1960, the Lobos played their home games at Zimmerman Field on the main campus. By the late 1950s, the growing university needed a modern athletic facility. Groundbreaking for the new venue took place in 1958 on UNM’s south campus. Designed by the architectural firm W.C. Kruger and Associates, the stadium utilized a unique "berm" style. Rather than relying on an expensive elevated steel superstructure, builders poured steel-reinforced concrete directly onto the earth carved into the local arroyo landscape. The initial construction cost approximately $4 million and yielded an opening capacity of 30,000 spectators. 
+The stadium officially opened on September 17, 1960, with the Lobos decisively defeating the University of Mexico 77–6 (some historical accounts alternatively reference an early game against arch-rival New Mexico State). 
+Expansion and Evolution
+Over the years, University Stadium underwent multiple phases of expansion and modernization to accommodate growing crowds and elevate the fan experience:
+•	1976: Prompted by strong local support and athletic leadership under Lavon McDonald, a new press box featuring private suites was constructed on the west side.
+•	The 1990s & 2001: Construction added the L.F. "Tow" Diehm Facility, housing locker rooms, training areas, and athletic offices. Major renovations ahead of the 2001 season pushed capacity past 37,000 and integrated state-of-the-art video boards. Capacity peaked near 40,000 in the late 2000s before settling at its current official capacity of 39,224. 
+•	2012: After 52 seasons of natural grass, the university replaced the playing surface with high-grade synthetic FieldTurf, later named Turner & Margaret Branch Field. 
+Notable Events and Attendance Records
+While the stadium's primary purpose is hosting UNM Lobo football, it has played host to several milestone sporting events and historic gatherings:
+•	Record Attendance: The highest-ever crowd at University Stadium was recorded on September 17, 2005, when 44,760 fans packed the stands to watch the Lobos face instream rival New Mexico State.
+•	Postseason Play: The venue hosted the NCAA Division II Football Championship game—then called the Zia Bowl—in December 1979 and December 1980. Since December 2006, it has been the permanent home of the annual New Mexico Bowl. 
+•	Soccer Matches: The stadium has occasionally transitioned into a soccer pitch, hosting notable international fixtures, including a U.S. women's national team World Cup qualifier against Mexico in May 2004 and a U.S. men's national team friendly against Honduras in March 2005. 
+•	Concerts: Beyond sports, University Stadium has welcomed massive entertainment acts, highlighted by historic stadium tours from Santana (1974), Metallica (1994), and a memorable performance by The Rolling Stones during their Bridges to Babylon Tour on October 30, 1997, drawing a crowd of over 34,000. 
+Corporate Naming Rights
+From 2017 to 2020, the facility was temporarily renamed Dreamstyle Stadium as part of a corporate naming-rights agreement with a local remodeling company. Following a corporate dispute in September 2020, the venue reverted to its historic and current moniker, University Stadium. 
+Sources
+•	University of New Mexico Athletics (GoLobos.com): Official records, historical schedules, and facility data.
+•	Wikipedia & American Football Fandom: Comprehensive architectural timelines, historical seating capacities, and attendance milestones.
+•	Ballparks.com & Stadium Journey: Archival construction statistics, engineering notes (berm-style construction), and renovation histories.
+
 
 This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
 
